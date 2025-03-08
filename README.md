@@ -32,19 +32,7 @@ This project aims to build a machine learning model that predicts whether a give
    - Interactive console-based input where the user enters transaction details.
    - The model predicts if the transaction is **Fraudulent** or **Not Fraudulent**.
 
-## Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone <repository_link>
-   ```
-2. Install dependencies:
-   ```bash
-   pip install pandas scikit-learn xgboost imbalanced-learn
-   ```
-3. Run the model:
-   ```bash
-   python fraud_detection.py
-   ```
+
 
 ## Usage
 - Enter transaction details when prompted.
